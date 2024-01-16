@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.969591c6.css",
+    "main.js": "/static/js/main.d1d56ba9.js",
+    "static/media/dream.svg": "/static/media/dream.63f7d5dae1592f86424a61632f7411d4.svg",
+    "static/media/wheel_img.png": "/static/media/wheel_img.71ae7bdadb3d2530cb9e.png",
+    "static/media/SUS7MoWZ4tA.jpg": "/static/media/SUS7MoWZ4tA.8d122441ee1748affa03.jpg",
+    "static/media/nvuti.jpg": "/static/media/nvuti.4781bf451f8b31d7cd56.jpg",
+    "static/media/dreamCatcher.jpg": "/static/media/dreamCatcher.bc2f9f3c2f1c0cceeb6b.jpg",
+    "static/media/double.jpg": "/static/media/double.dceee4768cc35a8c7df2.jpg",
+    "static/media/thimble-grey_img.png": "/static/media/thimble-grey_img.04e9fd5569af6d8e71cd.png",
+    "static/media/thimble.jpg": "/static/media/thimble.416f9b299a7a4dc35e9a.jpg",
+    "static/media/wheel.jpg": "/static/media/wheel.5db2fd28d477c80f7349.jpg",
+    "static/media/thimble_img.png": "/static/media/thimble_img.f9947b2d17ee2c337383.png",
+    "static/media/crash.jpg": "/static/media/crash.9ab0588a2d1b8a2b0408.jpg",
+    "static/media/mines.jpg": "/static/media/mines.3526144ffb68b3c5675b.jpg",
+    "static/media/dice1.jpg": "/static/media/dice1.cbb529975fe158341d06.jpg",
+    "static/media/rating.png": "/static/media/rating.87df8b7f5bcee555deb8.png",
+    "static/media/keno.jpg": "/static/media/keno.4cfb1d1af7c73f631bcb.jpg",
+    "static/media/goldWest.jpg": "/static/media/goldWest.1bcdbafe29c804bc35e9.jpg",
+    "static/media/stat_win.png": "/static/media/stat_win.8bb9c411d2caacc6c383.png",
+    "static/media/alcoSlots.jpg": "/static/media/alcoSlots.01076d3baecb565728ae.jpg",
+    "static/media/tower.jpg": "/static/media/tower.5842aa2d2845723a761d.jpg",
+    "static/media/promo.png": "/static/media/promo.e989466a21455e19b4f4.png",
+    "static/media/wheel.svg": "/static/media/wheel.fb3b0cd8a1a851c528ed2e6b88354ad9.svg",
+    "static/media/dice.jpg": "/static/media/dice.b47e16093fbabba5c4ad.jpg",
+    "static/media/top.png": "/static/media/top.ffc11623800271d11b15.png",
+    "static/media/coins.png": "/static/media/coins.dab62af1b72f3ce8465b.png",
+    "static/media/ball_img.png": "/static/media/ball_img.f1c5e0cc5d53e179bc0a.png",
+    "static/media/pointer.svg": "/static/media/pointer.b0e1e0a65606d00031bcddac10febcf6.svg",
+    "static/media/dreamPoint.svg": "/static/media/dreamPoint.e684d234e329ee2c0f94d6e77afeea74.svg",
+    "index.html": "/index.html",
+    "main.969591c6.css.map": "/static/css/main.969591c6.css.map",
+    "main.d1d56ba9.js.map": "/static/js/main.d1d56ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969591c6.css",
+    "static/js/main.d1d56ba9.js"
+  ]
+}
